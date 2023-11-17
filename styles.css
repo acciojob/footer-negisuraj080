@@ -1,1 +1,45 @@
 /* your code here */
+footer{
+	background-color:black;
+	color:white;
+
+}
+.media-icons{
+	display:flex;
+	padding-top:10px;
+	
+}
+
+.logo_name{
+	font-size:40px;
+	padding:30px;
+}
+.icon{
+	height:50px;
+}
+.icons-container{
+	display:flex;
+}
+
+.top{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.links{
+	display:flex;
+	flex-direction:column;
+	padding:30px;
+	color:white;
+}
+.link-boxes{
+	display:flex;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:#33322f;
+	height:50px;
+	padding-left:30px;
+	padding-right:30px;
+}
